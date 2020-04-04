@@ -1,0 +1,148 @@
+
+body{
+ background-color: #1b262c;
+    text-align: center;
+    font-family: 'Crimson Text', serif;
+    color: white;
+    font-size: 32px;
+    margin: 0;
+    
+}
+
+h1{
+         margin: 50px auto 0 50px;
+         font-size: 66px;
+        line-height: 2;
+        font-weight: lighter;
+        font-family: 'Pacifico', cursive;
+
+         color: #66BFBF;
+
+}
+h2{
+
+    font-size: 44px;
+    color:#66BFBF;
+    ;
+}
+h3{
+    color: #66BFBF;
+
+}
+
+hr{
+    background-color:none;
+    border: none grey 6px;
+    width: 40px;
+    border-style: dotted;
+    border-bottom: none;
+}
+a{
+    
+    text-decoration: none;
+    color: #a4e271;
+    padding: 20px;
+    text-decoration: none;
+}
+a:hover{
+    color: white;
+}
+.tophead
+{ color: #11999E;
+    font-size: 44px;
+    font-weight: normal;
+}
+.profile{
+    width: 50%;
+    margin: 100px auto 100px auto;
+}
+.success
+{
+    border-radius: 50%;
+    max-width: 200px;
+    max-height: 200px;
+}
+.skill-row
+{
+    width: 70%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    letter-spacing: 2%;
+}
+.prmgimg
+{
+    width: 25%;
+    float: right;
+    position: static;
+    margin-right: 30px;
+}
+.bsimg
+{
+    width: 20%;
+    float: left;
+    margin-right: 50px;
+    margin-bottom: 50px;
+    border-radius: 50%;
+}
+.cloud1
+{
+    position: absolute;
+    right: 300px;
+    top: 50px;
+
+}
+.cloud2{
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+.top-container
+{
+    background-color: #c2f0fc;
+    position: relative;
+    margin: 0;
+    padding-top: 100px;
+    color: black;
+}
+.middle-container
+{
+   
+}
+.bottom-container
+{
+  background-color: #46b5d1;
+  margin: 0;
+  padding: 100px 100px 100px 100px;
+}
+.btn {
+	box-shadow:inset 0px 1px 0px 0px #a4e271;
+	background:linear-gradient(to bottom, #89c403 5%, #77a809 100%);
+	background-color:#89c403;
+	border-radius:6px;
+	border:1px solid #74b807;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Verdana;
+	font-size:15px;
+	font-weight:bold;
+	padding:6px 24px;
+	text-decoration:none;
+    text-shadow:0px 1px 0px #528009;
+    margin-top: 100px ;
+    margin-bottom: 0px;
+}
+.btn:hover {
+	background:linear-gradient(to bottom, #77a809 5%, #89c403 100%);
+	background-color:#77a809;
+}
+.btn:active {
+	position:relative;
+	top:1px;
+}
+
+.name
+{
+    width: 50%;
+    margin: 50px auto 0px auto;
+}
